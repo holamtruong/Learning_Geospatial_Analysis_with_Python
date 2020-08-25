@@ -1,0 +1,10 @@
+Step 1: 
+
+Go to https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal 
+Download 'GDAL‑3.1.2‑cp38‑cp38‑win_amd64.whl' (note: cp38 is python 3.8, amd64 is python 64bit)
+
+Step 2: 
+
+python -m pip install E:\DEV\Learning_Geospatial_Analysis_with_Python\install_gdal_on_windows\GDAL-3.1.2-cp38-cp38-win_amd64.whl
+
+Readmore: https://www.youtube.com/watch?v=3COTt03Rd3M

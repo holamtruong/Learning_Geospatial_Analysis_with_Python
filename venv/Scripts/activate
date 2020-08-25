@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\DEV\Learning_Geospatial_Analysis_with_Python\venv"
+VIRTUAL_ENV="E:\DEV\Learning_Geospatial_Analysis_with_Python\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
