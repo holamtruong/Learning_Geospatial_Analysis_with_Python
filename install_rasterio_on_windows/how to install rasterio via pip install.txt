@@ -1,0 +1,9 @@
+Step 1: 
+
+Go to https://www.lfd.uci.edu/~gohlke/pythonlibs
+Download 'rasterio-1.1.5-cp38-cp38-win_amd64.whl'
+
+Step 2: 
+
+python -m pip install E:\DEV\Learning_Geospatial_Analysis_with_Python\install_rasterio_on_windows\rasterio-1.1.5-cp38-cp38-win_amd64.whl
+
