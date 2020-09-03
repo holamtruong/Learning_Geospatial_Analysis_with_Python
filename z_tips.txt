@@ -1,0 +1,17 @@
+# Check GDAL version
+    import osgeo.gdal
+    print(osgeo.gdal.__version__)
+
+
+# Create virtual environment:
+    python -m venv venv
+
+# Activate virtual environment (windows):
+    venv\Scripts\active.bat
+
+
+# Create bat file:
+    CALL venv\Scripts\activate
+    basic.py
+    cmd /k
+
